@@ -12,7 +12,7 @@
      If OGAds gave you a <script> embed instead, paste that in index.html
      (see the marked spot before </body>) and see README.txt, section 5.
      ====================================================================== */
-  var LOCKER_URL = "5n749w";
+  var LOCKER_URL = "https://trckapp.org/cl/i/5n749w";
 
   /* ---------- Unlock button ---------- */
   var unlockBtn = document.getElementById("unlock-btn");
